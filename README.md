@@ -21,7 +21,7 @@ A modern, responsive web application to discover recipes from around the world. 
 
 ## Deployment
 
-This project is deployed on Vercel. You can view the live site at [your-vercel-url-here].
+This project is deployed on Vercel. You can view the live site at https://recipe-finder-tau-one.vercel.app/.
 
 ## Local Development
 
